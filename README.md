@@ -5,9 +5,9 @@ My repository of Activities, Courses, Learning Projects  and Certificates
 	2. S. Linge and H. P. Langtangen. Programming for Computations – Phyton. SpringerOpen, 2016. - 28Apr20-23Jul20.
 	3. A. Géron. Hands-On Machine Learning with Scikit-Learn and TensorFlow. O’Reilly, 1st Edition, 2017. - 24Jul20-Mar21
 	4. Excel VBA Notes for Professionals. GoalKicker.com, Free Programing Books.
-	5. VBA tutorial. Tutorials Point, 2016.
-	6. [Markdown Guide](https://www.markdownguide.org/)
-	7. Created digital-journey repository in GitHub
+	5. VBA tutorial. Tutorials Point, 2016. - Mar21
+	6. [Markdown Guide](https://www.markdownguide.org/) - 30Apr22
+	7. Created digital-journey repository in GitHub - 01May22
 	
 # Courses		
 	1. Samsung Ocean, UEA, USP. 11Mar21-27Apr21	
