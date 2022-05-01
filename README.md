@@ -1,5 +1,5 @@
 # digital-transformation-journey
-My repository of Learning, Courses, Learning Projects  and Certificates
+My repository of Activities, Courses, Learning Projects  and Certificates
 # Activities	
 	1. [Machine Learning - Como começar a estudar e aprender sobre o assunto](https://www.youtube.com/watch?v=9aCUXJXPHGw). - 05Apr2020. 
 	2. S. Linge and H. P. Langtangen. Programming for Computations – Phyton. SpringerOpen, 2016. - 28Apr20-23Jul20.
