@@ -1,4 +1,4 @@
-# digital-transformation-journey
+# digital-journey
 My repository of Activities, Courses, Learning Projects  and Certificates
 # Activities	
 	1. [Machine Learning - Como começar a estudar e aprender sobre o assunto](https://www.youtube.com/watch?v=9aCUXJXPHGw). - 05Apr2020. 
@@ -7,6 +7,7 @@ My repository of Activities, Courses, Learning Projects  and Certificates
 	4. Excel VBA Notes for Professionals. GoalKicker.com, Free Programing Books.
 	5. VBA tutorial. Tutorials Point, 2016.
 	6. [Markdown Guide](https://www.markdownguide.org/)
+	7. Created digital-journey repository in GitHub
 	
 # Courses		
 	1. Samsung Ocean, UEA, USP. 11Mar21-27Apr21	
