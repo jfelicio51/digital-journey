@@ -1,13 +1,13 @@
 # digital-journey
 My repository of Activities, Courses, Learning Projects  and Certificates
 # Activities	
-##7. Create digital-journey repository in GitHub - 01May22	
-##6. [Markdown Guide](https://www.markdownguide.org/) - 30Apr22
-##5. VBA tutorial. Tutorials Point, 2016. - Mar21
-##4. Excel VBA Notes for Professionals. GoalKicker.com, Free Programing Books.- Mar21
-##3. A.Géron. Hands-On Machine Learning with Scikit-Learn and TensorFlow. O’Reilly, 1st Edition, 2017. - 24Jul20-Mar21
-##2. S.Linge and H. P. Langtangen. Programming for Computations – Phyton. SpringerOpen, 2016. - 28Apr20-23Jul20.
-##1. [Machine Learning - Como começar a estudar e aprender sobre o assunto](https://www.youtube.com/watch?v=9aCUXJXPHGw). - 05Apr2020. 
+	7. Create digital-journey repository in GitHub - 01May22	
+	6. [Markdown Guide](https://www.markdownguide.org/) - 30Apr22
+	5. VBA tutorial. Tutorials Point, 2016. - Mar21
+	4. Excel VBA Notes for Professionals. GoalKicker.com, Free Programing Books.- Mar21
+	3. A.Géron. Hands-On Machine Learning with Scikit-Learn and TensorFlow. O’Reilly, 1st Edition, 2017. - 24Jul20-Mar21
+	2. S.Linge and H. P. Langtangen. Programming for Computations – Phyton. SpringerOpen, 2016. - 28Apr20-23Jul20.
+	1. [Machine Learning - Como começar a estudar e aprender sobre o assunto](https://www.youtube.com/watch?v=9aCUXJXPHGw). - 05Apr2020. 
 	
 # Courses		
 	3. Bootcamp WebDeveloperCarrefour - DIO - Digital Innovation One. 12Apr22-19May22	
