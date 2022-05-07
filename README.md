@@ -13,7 +13,7 @@ My repository of Activities, Courses, Learning Projects  and Certificates
 		
 ## Courses
 
-	3. Bootcamp WebDeveloperCarrefour - DIO - Digital Innovation One. 12Apr22-19May22	
+###***3. Bootcamp WebDeveloperCarrefour - DIO - Digital Innovation One.*** 12Apr22-19May22	
 		3.6_Introdução a criação de websites com HTML5 e CCS3, 6 horas, Mai2022.
 		3.5_Primeiros passos para desenvolvimento web, 6 horas, Mai2022.
 		3.4.Projetos ágeis com SCRUM, 2 horas, Apr2022.
@@ -21,12 +21,12 @@ My repository of Activities, Courses, Learning Projects  and Certificates
 		3.2. Lógica de Programação Essencial, 4 horas, Apr2022.
 		3.1. Pensamento Computacional, 2 horas, Apr2022.
 
-	 2. FIAP centro universitário. 25Mar21-28Apr21	
+###***2. FIAP centro universitário.*** 25Mar21-28Apr21	
 		2.3. Phyton, 80 horas, Apr2021.
 		2.2. DevOps & Agile Culture, 60 horas, Apr2021.
 		2.1. Business Inteligence, 40 horas, Mar2021.
 
-	1. Samsung Ocean, UEA, USP. 11Mar21-27Apr21	
+###***1. Samsung Ocean, UEA, USP.*** 11Mar21-27Apr21	
 		1.10. Laboratório de IoT com Arduino, 3horas, Apr2021.
 		1.9.  Introdução à Internet das Coisas, 3horas, Apr2021.
 		1.8.  Jornada Machine Learning: Módulo 4: Avançando com Deep Learning em Python, 3horas, Apr2021.
@@ -40,7 +40,7 @@ My repository of Activities, Courses, Learning Projects  and Certificates
 	
 ## Certificates
 
-		***refer folder Certificates.***
+***refer folder Certificates.***
 		
 # Learning Projects
 	3. Hands on Machine Learning with SciKit-Learn - A. Gerón. 24Jul20-Mar21
