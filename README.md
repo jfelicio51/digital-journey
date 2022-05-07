@@ -4,12 +4,12 @@ My repository of Studies, Courses, Learning Projects  and Certificates
 
 # Studies	
 >
-> <p>6. [Markdown Guide of Basic Syntax](https://www.markdownguide.org/basic-syntax/) - 30Apr22<br>  
-> <p>5. VBA tutorial. Tutorials Point, 2016. - Mar21<br>  
-> <p>4. Excel VBA Notes for Professionals. GoalKicker.com, Free Programing Books.- Mar21<br>  
-> <p>3. A.Géron. Hands-On Machine Learning with Scikit-Learn and TensorFlow. O’Reilly, 1st Edition, 2017. - 24Jul20-Mar21<br>  
-> <p>2. S.Linge and H. P. Langtangen. Programming for Computations – Phyton. SpringerOpen, 2016. - 28Apr20-23Jul20<br>  
-> <p>1. [Machine Learning-Como começar a estudar e aprender sobre o assunto](https://www.youtube.com/watch?v=9aCUXJXPHGw). - 05Apr2020.</p>  
+> <p>6. [Markdown Guide of Basic Syntax](https://www.markdownguide.org/basic-syntax/) - 30Apr22<br>
+> <p>5. VBA tutorial. Tutorials Point, 2016. - Mar21<br>
+> <p>4. Excel VBA Notes for Professionals. GoalKicker.com, Free Programing Books.- Mar21<br>
+> <p>3. A.Géron. Hands-On Machine Learning with Scikit-Learn and TensorFlow. O’Reilly, 1st Edition, 2017. - 24Jul20-Mar21<br>
+> <p>2. S.Linge and H. P. Langtangen. Programming for Computations – Phyton. SpringerOpen, 2016. - 28Apr20-23Jul20<br>
+> <p>1. [Machine Learning-Como começar a estudar e aprender sobre o assunto](https://www.youtube.com/watch?v=9aCUXJXPHGw). - 05Apr2020.</p>
 	
 # Courses & Certificates
 		
@@ -49,8 +49,8 @@ My repository of Studies, Courses, Learning Projects  and Certificates
 		
 # Learning Projects
 >
-> <p>4. Create digital-journey repository in GitHub - 01May22<br>  
-> <p>3. Hands on Machine Learning with SciKit-Learn - A. Gerón. 24Jul20-Mar21<br>  
-> <p>2. Application: Tooling workshop and Garage - Planning. 19May20-17Aug20<br>  
-> <p>1. Programming for Computations – Python - S.Linge. 28Apr20-23Jul20</p>  
+> <p>4. Create digital-journey repository in GitHub - 01May22<br>
+> <p>3. Hands on Machine Learning with SciKit-Learn - A. Gerón. 24Jul20-Mar21<br>
+> <p>2. Application: Tooling workshop and Garage - Planning. 19May20-17Aug20<br>
+> <p>1. Programming for Computations – Python - S.Linge. 28Apr20-23Jul20</p>
 
