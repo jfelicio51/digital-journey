@@ -11,6 +11,7 @@ My repository of Activities, Courses, Learning Projects  and Certificates
 	
 # Courses		
 	3. Bootcamp WebDeveloperCarrefour - DIO - Digital Innovation One. 12Apr22-19May22	
+		3.6_Introdução a criação de websites com HTML5 e CCS3, 6 horas, Mai2022.
 		3.5_Primeiros passos para desenvolvimento web, 6 horas, Mai2022.
 		3.4.Projetos ágeis com SCRUM, 2 horas, Apr2022.
 		3.3.Introdução ao Git e ao GitHub, 5 horas, Apr2022.
