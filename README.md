@@ -1,8 +1,8 @@
-# digital-journey :rocket:
+# :rocket: digital-journey  
 
 My repository of Studies, Courses, Learning Projects  and Certificates
 
-# Studies :books:	
+# :books: Studies  
 >
 > 6. [Markdown Guide of Basic Syntax](https://www.markdownguide.org/basic-syntax/) - 30Apr22  
 > 5. VBA tutorial. Tutorials Point, 2016. - Mar21  
@@ -13,7 +13,7 @@ My repository of Studies, Courses, Learning Projects  and Certificates
 	
 # Courses & Certificates  
 		
-## Courses :school:
+## :school: Courses  
 
 > ### **3. Bootcamp WebDeveloperCarrefour - DIO - Digital Innovation One.** ***- 12Apr22-19May22***  	
 >
@@ -43,11 +43,11 @@ My repository of Studies, Courses, Learning Projects  and Certificates
 > 1.2 Ciência de Dados - Resolvendo problemas reais com Python e Pandas, 6 horas, Mar2021.  
 > 1.1 Desenvolvimento Ágil - DevOps Docker, 3 horas, Mar2021.  
 	
-## Certificates :trophy:
+## :trophy: Certificates  
 
 - ***refer folder Certificates.***
 		
-# Learning Projects :chart_with_upwards_trend:
+#  :chart_with_upwards_trend: Learning Projects  
 >
 > 4. Create digital-journey repository in GitHub - 01May22  
 > 3. Hands on Machine Learning with SciKit-Learn - A. Gerón. 24Jul20-Mar21  
