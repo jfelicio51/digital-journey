@@ -9,8 +9,10 @@ My repository of Activities, Courses, Learning Projects  and Certificates
 	2. S.Linge and H. P. Langtangen. Programming for Computations – Phyton. SpringerOpen, 2016. - 28Apr20-23Jul20.
 	1. [Machine Learning - Como começar a estudar e aprender sobre o assunto](https://www.youtube.com/watch?v=9aCUXJXPHGw). - 05Apr2020. 
 	
-# Courses & Certificates		
-	## Courses
+# Courses & Certificates
+		
+## Courses
+
 	3. Bootcamp WebDeveloperCarrefour - DIO - Digital Innovation One. 12Apr22-19May22	
 		3.6_Introdução a criação de websites com HTML5 e CCS3, 6 horas, Mai2022.
 		3.5_Primeiros passos para desenvolvimento web, 6 horas, Mai2022.
@@ -35,8 +37,10 @@ My repository of Activities, Courses, Learning Projects  and Certificates
 		1.3.  Introdução à Gestão de Produtos Digitais, 2horas, Mar2021.
 		1.2.  Ciência de Dados - Resolvendo problemas reais com Python e Pandas, 6 horas, Mar2021.
 		1.1.  Desenvolvimento Ágil - DevOps Docker, 3 horas, Mar2021.
-	## Certificates
-		_refer folder Certificates._
+	
+## Certificates
+
+		***refer folder Certificates.***
 		
 # Learning Projects
 	3. Hands on Machine Learning with SciKit-Learn - A. Gerón. 24Jul20-Mar21
