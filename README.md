@@ -2,7 +2,7 @@
 
 My repository of Studies, Courses, Learning Projects  and Certificates
 
-# Studies :U+1F4DA:	
+# Studies :books:	
 >
 > 6. [Markdown Guide of Basic Syntax](https://www.markdownguide.org/basic-syntax/) - 30Apr22  
 > 5. VBA tutorial. Tutorials Point, 2016. - Mar21  
