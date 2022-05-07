@@ -1,4 +1,4 @@
-# digital-journey
+# digital-journey :rocket:
 
 My repository of Studies, Courses, Learning Projects  and Certificates
 
