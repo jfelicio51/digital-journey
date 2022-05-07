@@ -40,7 +40,7 @@ My repository of Activities, Courses, Learning Projects  and Certificates
 	
 ## Certificates
 
-***	refer folder Certificates.***
+***refer folder Certificates.***
 		
 # Learning Projects
 
