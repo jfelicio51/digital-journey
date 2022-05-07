@@ -40,10 +40,11 @@ My repository of Activities, Courses, Learning Projects  and Certificates
 	
 ## Certificates
 
-***refer folder Certificates.***
+***	refer folder Certificates.***
 		
 # Learning Projects
-	3. Hands on Machine Learning with SciKit-Learn - A. Gerón. 24Jul20-Mar21
-	2. Application: Tooling workshop and Garage - Planning. 19May20-17Aug20
-	1. Programming for Computations – Python - S.Linge. 28Apr20-23Jul20
+
+		3. Hands on Machine Learning with SciKit-Learn - A. Gerón. 24Jul20-Mar21
+		2. Application: Tooling workshop and Garage - Planning. 19May20-17Aug20
+		1. Programming for Computations – Python - S.Linge. 28Apr20-23Jul20
 
