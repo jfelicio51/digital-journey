@@ -44,10 +44,8 @@ My repository of Studies, Courses, Learning Projects and Certificates throughout
 > 1.2 Ciência de Dados - Resolvendo problemas reais com Python e Pandas, 6 horas, Mar2021.  
 > 1.1 Desenvolvimento Ágil - DevOps Docker, 3 horas, Mar2021.  
 	
-## :trophy: Certificates  
+## :trophy: [Certificates](https://github.com/jfelicio51/digital-journey/tree/master/Certificates)  
 
-- ***[Certificates](https://github.com/jfelicio51/digital-journey/tree/master/Certificates)***
-		
 #  :chart_with_upwards_trend: Learning Projects  
 >
 > 4. Create digital-journey repository in GitHub - 01May22  
