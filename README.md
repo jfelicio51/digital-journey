@@ -17,6 +17,7 @@ My repository of Studies, Courses, Learning Projects and Certificates throughout
 
 > ### **3. Bootcamp WebDeveloperCarrefour - DIO - Digital Innovation One.** ***- 12Apr22-19May22***  	
 >
+> 3.7 Construindo páginas para internet com Bootstrap, 4 horas, Mai2022.
 > 3.6 Introdução a criação de websites com HTML5 e CCS3, 6 horas, Mai2022.  
 > 3.5 Primeiros passos para desenvolvimento web, 6 horas, Mai2022.  
 > 3.4 Projetos ágeis com SCRUM, 2 horas, Apr2022.  
@@ -45,7 +46,7 @@ My repository of Studies, Courses, Learning Projects and Certificates throughout
 	
 ## :trophy: Certificates  
 
-- ***refer folder Certificates.***
+- ***[Certificates](https://github.com/jfelicio51/digital-journey/tree/master/Certificates)***
 		
 #  :chart_with_upwards_trend: Learning Projects  
 >
