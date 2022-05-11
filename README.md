@@ -17,7 +17,8 @@ My repository of Studies, Courses, Learning Projects and Certificates throughout
 
 > ### **3. Bootcamp WebDeveloperCarrefour - DIO - Digital Innovation One.** ***- 12Apr22-19May22***  	
 >
-> 3.7 Construindo páginas para internet com Bootstrap, 4 horas, Mai2022.
+> 3.8 Recriando a Interface do Netflix, 5 horas, Mai2022.  
+> 3.7 Construindo páginas para internet com Bootstrap, 4 horas, Mai2022.  
 > 3.6 Introdução a criação de websites com HTML5 e CCS3, 6 horas, Mai2022.  
 > 3.5 Primeiros passos para desenvolvimento web, 6 horas, Mai2022.  
 > 3.4 Projetos ágeis com SCRUM, 2 horas, Apr2022.  
@@ -48,7 +49,8 @@ My repository of Studies, Courses, Learning Projects and Certificates throughout
 
 #  :chart_with_upwards_trend: Learning Projects  
 >
-> 4. Create digital-journey repository in GitHub - 01May22  
+> 5. [Code Netflix Interface in HTML,CSS,Javascript, JQuery-plugins - 11May22](https://github.com/jfelicio51/Netflix_project.git)  
+> 4. [Create digital-journey repository in GitHub - 01May22](https://github.com/jfelicio51/digital-journey.git)  
 > 3. Hands on Machine Learning with SciKit-Learn - A. Gerón. 24Jul20-Mar21  
 > 2. Application: Tooling workshop and Garage - Planning. 19May20-17Aug20  
 > 1. Programming for Computations – Python - S.Linge. 28Apr20-23Jul20  
