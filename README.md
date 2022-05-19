@@ -47,7 +47,7 @@ My repository of Studies, Courses, Learning Projects and Certificates throughout
 	
 ## :trophy: [Certificates](https://github.com/jfelicio51/digital-journey/tree/master/Certificates)  
 
-#  :chart_with_upwards_trend: Learning Projects  
+#  :chart_with_upwards_trend: Projects / Portfolio 
 
 5- [Code Netflix Interface in HTML,CSS,Javascript, JQuery-plugins - 11May22](https://github.com/jfelicio51/Netflix_project.git)  
 4- [Create digital-journey repository in GitHub - 01May22](https://github.com/jfelicio51/digital-journey.git)  
