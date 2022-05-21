@@ -1,6 +1,6 @@
 # :rocket: digital-journey  
 
-My repository of Studies, Courses, Certificates and Portfolio of Application Projects throughout digital transformation trails.
+My repository of Studies, Courses, Certificates and Project Portfolio throughout digital transformation trails.
 
 # :books: Studies  
 
