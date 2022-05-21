@@ -47,11 +47,11 @@ My repository of Studies, Courses, Certificates and Portfolio of Application Pro
 	
 ## :trophy: [Certificates](https://github.com/jfelicio51/digital-journey/tree/master/Certificates)  
 
-#  :chart_with_upwards_trend: Portfolio of Application Projects 
+#  :chart_with_upwards_trend: Project Portfolio 
 
 5- [Code Netflix Interface Clone with HTML,CSS,Javascript, JQuery-plugins - 11May22](https://github.com/jfelicio51/Netflix_project.git)  
 4- [Create digital-journey repository in GitHub - 01May22](https://github.com/jfelicio51/digital-journey.git)  
 3- Application of Machine Learning with SciKit-Learn. 24Jul20-Mar21  
-2- Application: Tooling workshop and Garage - Planning. 19May20-17Aug20  
-1- Application of Python. 28Apr20-23Jul20  
+2- Application of Phyton: Planning of Depatments for workload distribution, headcount and costs. 19May20-17Aug20  
+1- Application of Python: Computing. 28Apr20-23Jul20  
 
