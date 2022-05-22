@@ -49,6 +49,7 @@ My repository of Studies, Courses, Certificates and Project Portfolio throughout
 
 #  :chart_with_upwards_trend: Project Portfolio 
 
+6- [Code my Portfolio of Projects in Engineering and Digital Transformation with HTML5 / CSS3 / Bootstrap. - 22May22](https://jfelicio51.github.io/)
 5- [Code Netflix Interface Clone with HTML,CSS,Javascript, JQuery-plugins - 11May22](https://github.com/jfelicio51/Netflix_project.git)  
 4- [Create digital-journey repository in GitHub - 01May22](https://github.com/jfelicio51/digital-journey.git)  
 3- Application of Machine Learning with SciKit-Learn. 24Jul20-Mar21  
