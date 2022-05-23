@@ -52,7 +52,7 @@ My repository of Studies, Courses, Certificates and Project Portfolio throughout
 7- [Code my Portfolio of Projects in Engineering and Digital Transformation with HTML5 / CSS3 / Bootstrap. - 22May22](https://jfelicio51.github.io/)  
 6- [Code Netflix Interface Clone with HTML,CSS,Javascript, JQuery-plugins - 11May22](https://github.com/jfelicio51/Netflix_project.git)  
 5- [Create digital-journey repository in GitHub - 01May22](https://github.com/jfelicio51/digital-journey.git)  
-4- [Application of VBA&BI fundamentals on Sales, Aftersales, Marketing and Finance to a car repair garage. 20Jan21-17Abr21](https://github.com/jfelicio51/digital-journey.git)  
+4- [Application of VBA&BI fundamentals on Sales, Aftersales, Marketing and Finance to a car repair garage. 20Jan21-17Abr21](https://jfelicio51.github.io/)  
 3- Application of Machine Learning with SciKit-Learn. 24Jul20-Mar21  
 2- Application of Phyton: Planning of Departments for workload distribution, headcount and costs. 19May20-17Aug20  
 1- Application of Python: Computing. 28Apr20-23Jul20  
