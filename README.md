@@ -54,6 +54,6 @@ My repository of Studies, Courses, Certificates and Project Portfolio throughout
 5- [Create digital-journey repository in GitHub - 01May22](https://github.com/jfelicio51/digital-journey.git)  
 4- [Application of VBA&BI fundamentals on Sales, Aftersales, Marketing and Finance to a car repair garage. 20Jan21-17Abr21](https://jfelicio51.github.io/)  
 3- Application of Machine Learning with SciKit-Learn. 24Jul20-Mar21  
-2- Application of Phyton: Planning of Departments for workload distribution, headcount and costs. 19May20-17Aug20  
+2- [Application of DMAIC&Phyton: Planning of Departments for workload distribution, headcount and costs. 19May20-17Aug20](https://github.com/jfelicio51/digital-journey.git)  
 1- Application of Python: Computing. 28Apr20-23Jul20  
 
