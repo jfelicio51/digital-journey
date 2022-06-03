@@ -8,7 +8,7 @@ My repository of Studies, Courses, Certificates and Project Portfolio throughout
 5- VBA tutorial. Tutorials Point, 2016. - Mar21  
 4- Excel VBA Notes for Professionals. GoalKicker.com, Free Programing Books.- Mar21  
 3- A.Géron. Hands-On Machine Learning with Scikit-Learn and TensorFlow. O’Reilly, 1st Edition, 2017. - 24Jul20-Mar21  
-2- S.Linge and H. P. Langtangen. Programming for Computations – Phyton. SpringerOpen, 2016. - 28Apr20-23Jul20  
+2- S.Linge and H. P. Langtangen. Programming for Computations – Python. SpringerOpen, 2016. - 28Apr20-23Jul20  
 1- [Machine Learning-Como começar a estudar e aprender sobre o assunto](https://www.youtube.com/watch?v=9aCUXJXPHGw). - 05Apr2020.    
 	
 # Courses & Certificates  
@@ -28,7 +28,7 @@ My repository of Studies, Courses, Certificates and Project Portfolio throughout
 
 > ### **2. FIAP centro universitário.** ***- 25Mar21-28Apr21***	
 >
-> 2.3 Phyton, 80 horas, Apr2021.  
+> 2.3 Python, 80 horas, Apr2021.  
 > 2.2 DevOps & Agile Culture, 60 horas, Apr2021.  
 > 2.1 Business Inteligence, 40 horas, Mar2021.  
 
@@ -54,6 +54,6 @@ My repository of Studies, Courses, Certificates and Project Portfolio throughout
 5- [Create digital-journey repository in GitHub - 01May22](https://github.com/jfelicio51/digital-journey.git)  
 4- [Application of VBA&BI fundamentals on Sales, Aftersales, Marketing and Finance to a car repair garage. 20Jan21-17Abr21](https://jfelicio51.github.io/)  
 3- Application of Machine Learning with SciKit-Learn. 24Jul20-Mar21  
-2- [Application of DMAIC&Phyton: Planning of Departments for workload distribution, headcount and costs. 19May20-17Aug20](https://jfelicio51.github.io/)    
+2- [Application of DMAIC&Python: Planning of Departments for workload distribution, headcount and costs. 19May20-17Aug20](https://jfelicio51.github.io/)    
 1- Application of Python: Computing. 28Apr20-23Jul20  
 
