@@ -15,6 +15,10 @@ My repository of Studies, Courses, Certificates and Project Portfolio throughout
 		
 ## :school: Courses  
 
+> ### **4. Udemy. ** ***- 23Jun22-26Jun22***  	
+>
+> 4.1 Introduction to Databases and SQL Querying, 2,5 horas, Jun2022.  
+
 > ### **3. Bootcamp WebDeveloperCarrefour - DIO - Digital Innovation One.** ***- 12Apr22-19May22***  	
 >
 > 3.8 Recriando a Interface do Netflix, 5 horas, Mai2022.  
