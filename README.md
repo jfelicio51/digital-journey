@@ -18,7 +18,7 @@ My repository of Studies, Courses, Certificates and Project Portfolio throughout
 
 > ### **4. Udemy, Inc.** ***- 23Jun22-26Jun22***  	
 >
-> 4.1 Introduction to Databases and SQL Querying, 2,5 hours, Jun2022.  
+> 4.1 Introduction to Databases and SQL Querying, 2.5 hours, Jun2022.  
 
 > ### **3. Bootcamp WebDeveloperCarrefour - DIO - Digital Innovation One.** ***- 12Apr22-19May22***  	
 >
