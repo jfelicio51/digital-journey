@@ -15,7 +15,8 @@ My repository of Studies, Courses, Certificates and Project Portfolio throughout
 		
 ## :school: Courses  
 
-> ### **4. Udemy, Inc. ** ***- 23Jun22-26Jun22***  	
+
+> ### **4. Udemy, Inc.** ***- 23Jun22-26Jun22***  	
 >
 > 4.1 Introduction to Databases and SQL Querying, 2,5 horas, Jun2022.  
 
