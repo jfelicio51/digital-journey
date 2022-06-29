@@ -16,6 +16,10 @@ My repository of Studies, Courses, Certificates and Project Portfolio throughout
 ## :school: Courses  
 
 
+> ### **5. DIO - Digital Innovation One.** ***- 28Jun22-29Jun22***  	
+>
+> 5.1 Primeiros passos com AWS, 2 horas, Jun2022.  
+
 > ### **4. Udemy, Inc.** ***- 23Jun22-26Jun22***  	
 >
 > 4.1 Introduction to Databases and SQL Querying, 2.5 hours, Jun2022.  
