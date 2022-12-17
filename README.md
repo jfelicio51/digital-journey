@@ -16,6 +16,10 @@ My repository of Studies, Courses, Certificates and Project Portfolio throughout
 ## :school: Courses  
 
 
+> ### **6. iESSS ANSYS ** ***- 13Jul22-19Jul22***  	
+>
+> 6.1 Curso Básico de Simulação Estrutural (FEA) utilizando Ansys - 12h, Jul2022.
+
 > ### **5. DIO - Digital Innovation One.** ***- 28Jun22-29Jun22***  	
 >
 > 5.1 Primeiros passos com AWS, 2 horas, Jun2022.  
