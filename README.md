@@ -18,50 +18,50 @@ My repository of Studies, Courses, Certificates and Project Portfolio throughout
 
 > ### **6. CAE - Computer Aided Engineering** ***- 13Jul22-04Nov24***  	
 >
-> 6.6 Elementos-Finitos-MEF-5-NX_NASTRAN - 45h, Nov2024.
-> 6.5 Elementos-Finitos-MEF-4-Fadiga - 22h, Jun2024.
-> 6.4 Elementos-Finitos-MEF-3-Analise-Nao-Linear - 22h, Mai2024.
-> 6.3 Elementos-Finitos-MEF-2-Analise-Dinamica - 28h, Apr2024.
-> 6.2 Elementos-Finitos-MEF-1-Analise-Estatica - 30h, Feb2024.
-> 6.1 Curso Básico de Simulação Estrutural (FEA) utilizando Ansys - 12h, Jul2022.
+> 6.6 Elementos-Finitos-MEF-5-NX_NASTRAN - 45h, Nov2024.                                 
+> 6.5 Elementos-Finitos-MEF-4-Fadiga - 22h, Jun2024.               
+> 6.4 Elementos-Finitos-MEF-3-Analise-Nao-Linear - 22h, Mai2024.  
+> 6.3 Elementos-Finitos-MEF-2-Analise-Dinamica - 28h, Apr2024.  
+> 6.2 Elementos-Finitos-MEF-1-Analise-Estatica - 30h, Feb2024.  
+> 6.1 Curso Básico de Simulação Estrutural (FEA) utilizando Ansys - 12h, Jul2022.  
 
 > ### **5. DIO - Digital Innovation One.** ***- 28Jun22-29Jun22***  	
 >
-> 5.1 Primeiros passos com AWS, 2 horas, Jun2022.  
+> 5.1 Primeiros passos com AWS, 2h, Jun2022.  
 
 > ### **4. Udemy, Inc.** ***- 23Jun22-26Jun22***  	
 >
-> 4.1 Introduction to Databases and SQL Querying, 2.5 hours, Jun2022.  
+> 4.1 Introduction to Databases and SQL Querying, 2.5h, Jun2022.  
 
 > ### **3. Bootcamp WebDeveloperCarrefour - DIO - Digital Innovation One.** ***- 12Apr22-19May22***  	
 >
-> 3.8 Recriando a Interface do Netflix, 5 horas, Mai2022.  
-> 3.7 Construindo páginas para internet com Bootstrap, 4 horas, Mai2022.  
-> 3.6 Introdução a criação de websites com HTML5 e CCS3, 6 horas, Mai2022.  
-> 3.5 Primeiros passos para desenvolvimento web, 6 horas, Mai2022.  
-> 3.4 Projetos ágeis com SCRUM, 2 horas, Apr2022.  
-> 3.3 Introdução ao Git e ao GitHub, 5 horas, Apr2022.  
-> 3.2 Lógica de Programação Essencial, 4 horas, Apr2022.  
-> 3.1. Pensamento Computacional, 2 horas, Apr2022.  
+> 3.8 Recriando a Interface do Netflix, 5h, Mai2022.                                                                       
+> 3.7 Construindo páginas para internet com Bootstrap, 4h, Mai2022.                          
+> 3.6 Introdução a criação de websites com HTML5 e CCS3, 6h, Mai2022.  
+> 3.5 Primeiros passos para desenvolvimento web, 6h, Mai2022.  
+> 3.4 Projetos ágeis com SCRUM, 2h, Apr2022.  
+> 3.3 Introdução ao Git e ao GitHub, 5h, Apr2022.  
+> 3.2 Lógica de Programação Essencial, 4h, Apr2022.  
+> 3.1. Pensamento Computacional, 2h, Apr2022.  
 
 > ### **2. FIAP centro universitário.** ***- 25Mar21-28Apr21***	
 >
-> 2.3 Python, 80 horas, Apr2021.  
-> 2.2 DevOps & Agile Culture, 60 horas, Apr2021.  
-> 2.1 Business Inteligence, 40 horas, Mar2021.  
+> 2.3 Python, 80h, Apr2021.  
+> 2.2 DevOps & Agile Culture, 60h, Apr2021.  
+> 2.1 Business Inteligence, 40h, Mar2021.  
 
 > ### **1. Samsung Ocean, UEA, USP.** ***- 11Mar21-27Apr21***	
 >
-> 1.10 Laboratório de IoT com Arduino, 3 horas, Apr2021.  
-> 1.9 Introdução à Internet das Coisas, 3 horas, Apr2021.  
-> 1.8 Jornada Machine Learning: Módulo 4: Avançando com Deep Learning em Python, 3 horas, Apr2021.  
-> 1.7 Jornada Machine Learning: Módulo 3: Machine Learning - Laboratório com Python, 6 horas, Apr2021.  
-> 1.6 Jornada Machine Learning: Módulo 2: Aplicações de ML com Orange, 3 horas, Apr2021.  
-> 1.5 Jornada Machine Learning: Módulo 1: Machine Learning - Entendendo e Implementando com Orange, 3horas, Apr2021.  
-> 1.4 Ciência de Dados: Laboratório com Pandas e Python, 2 horas, Mar2021.  
-> 1.3 Introdução à Gestão de Produtos Digitais, 2horas, Mar2021.  
-> 1.2 Ciência de Dados - Resolvendo problemas reais com Python e Pandas, 6 horas, Mar2021.  
-> 1.1 Desenvolvimento Ágil - DevOps Docker, 3 horas, Mar2021.  
+> 1.10 Laboratório de IoT com Arduino, 3h, Apr2021.  
+> 1.9 Introdução à Internet das Coisas, 3h, Apr2021.  
+> 1.8 Jornada Machine Learning: Módulo 4: Avançando com Deep Learning em Python, 3h, Apr2021.  
+> 1.7 Jornada Machine Learning: Módulo 3: Machine Learning - Laboratório com Python, 6h, Apr2021.  
+> 1.6 Jornada Machine Learning: Módulo 2: Aplicações de ML com Orange, 3h, Apr2021.  
+> 1.5 Jornada Machine Learning: Módulo 1: Machine Learning - Entendendo e Implementando com Orange, 3h, Apr2021.  
+> 1.4 Ciência de Dados: Laboratório com Pandas e Python, 2h, Mar2021.  
+> 1.3 Introdução à Gestão de Produtos Digitais, 2h, Mar2021.  
+> 1.2 Ciência de Dados - Resolvendo problemas reais com Python e Pandas, 6h, Mar2021.  
+> 1.1 Desenvolvimento Ágil - DevOps Docker, 3h, Mar2021.  
 	
 ## :trophy: [Certificates](https://github.com/jfelicio51/digital-journey/tree/master/Certificates)  
 
