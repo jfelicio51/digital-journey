@@ -16,9 +16,20 @@ My repository of Studies, Courses, Certificates and Project Portfolio throughout
 ## :school: Courses  
 
 
-> ### **6. iESSS ANSYS** ***- 13Jul22-19Jul22***  	
+> ### **6. CAE - Computer Aided Engineering** ***- 13Jul22-04Nov24***  	
 >
 > 6.1 Curso Básico de Simulação Estrutural (FEA) utilizando Ansys - 12h, Jul2022.
+>
+> 6.2 Elementos-Finitos-MEF-1-Analise-Estatica - 30h, Feb2024.
+>
+> 6.3 Elementos-Finitos-MEF-2-Analise-Dinamica - 28h, Apr2024.
+>
+> 6.4 Elementos-Finitos-MEF-3-Analise-Nao-Linear - 22h, Mai2024.
+>
+> 6.5 Elementos-Finitos-MEF-4-Fadiga - 22h, Jun2024.
+>
+> 6.6 Elementos-Finitos-MEF-5-NX_NASTRAN - 45h, Nov2024.
+
 
 > ### **5. DIO - Digital Innovation One.** ***- 28Jun22-29Jun22***  	
 >
