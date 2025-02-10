@@ -16,14 +16,25 @@ My repository of Studies, Courses, Certificates and Project Portfolio throughout
 ## :school: Courses  
 
 
-> ### **6. CAE - Computer Aided Engineering** ***- 13Jul22-04Nov24***  	
+> ### **7. Engineering** ***- Dec05-Mar24***  	
 >
-> 6.6 Elementos-Finitos-MEF-5-NX_NASTRAN - 45h, Nov2024.                                 
-> 6.5 Elementos-Finitos-MEF-4-Fadiga - 22h, Jun2024.               
-> 6.4 Elementos-Finitos-MEF-3-Analise-Nao-Linear - 22h, Mai2024.  
-> 6.3 Elementos-Finitos-MEF-2-Analise-Dinamica - 28h, Apr2024.  
-> 6.2 Elementos-Finitos-MEF-1-Analise-Estatica - 30h, Feb2024.  
-> 6.1 Curso Básico de Simulação Estrutural (FEA) utilizando Ansys - 12h, Jul2022.  
+> 7.2 DoE_Design-Of-Experiments - 32h, Mar2004.                                 
+> 7.1 GreenBelt - 40h, Dec2005.                                 
+>
+
+> ### **6. CAE - Computer Aided Engineering** ***- 11Aug00-04Nov24***  	
+>
+> 6.11 Elementos-Finitos-MEF-5-NX_NASTRAN - 45h, Nov2024.                                 
+> 6.10 Elementos-Finitos-MEF-4-Fadiga - 22h, Jun2024.               
+> 6.9 Elementos-Finitos-MEF-3-Analise-Nao-Linear - 22h, Mai2024.  
+> 6.8 Elementos-Finitos-MEF-2-Analise-Dinamica - 28h, Apr2024.  
+> 6.7 Elementos-Finitos-MEF-1-Analise-Estatica - 30h, Feb2024.  
+> 6.6 Curso Básico de Simulação Estrutural (FEA) utilizando Ansys - 12h, Jul2022.  
+> 6.5 ADAMS_Chassis - 16h, Dec2005.
+> 6.4 Analise Dinâmica - 40h, Jul2005.
+> 6.3 Analise Estática - 40h, Mar2004.
+> 6.2 C3P_Modeling for CAE - 32h, Aug2000.  
+> 6.1 Hypermesh - 40h, Aug2000.  
 
 > ### **5. DIO - Digital Innovation One.** ***- 28Jun22-29Jun22***  	
 >
